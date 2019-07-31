@@ -1,0 +1,11 @@
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\bin\Debug\netcoreapp2.2\listofDictionaries.deps.json
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\bin\Debug\netcoreapp2.2\listofDictionaries.runtimeconfig.json
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\bin\Debug\netcoreapp2.2\listofDictionaries.runtimeconfig.dev.json
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\bin\Debug\netcoreapp2.2\listofDictionaries.dll
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\bin\Debug\netcoreapp2.2\listofDictionaries.pdb
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\obj\Debug\netcoreapp2.2\listofDictionaries.csprojAssemblyReference.cache
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\obj\Debug\netcoreapp2.2\listofDictionaries.csproj.CoreCompileInputs.cache
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\obj\Debug\netcoreapp2.2\listofDictionaries.AssemblyInfoInputs.cache
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\obj\Debug\netcoreapp2.2\listofDictionaries.AssemblyInfo.cs
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\obj\Debug\netcoreapp2.2\listofDictionaries.dll
+C:\users\jksig\workspace\c#Exercise\listofDictionaries\obj\Debug\netcoreapp2.2\listofDictionaries.pdb
